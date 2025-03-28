@@ -1,6 +1,6 @@
 基于java SpringBoot的家政预约系统设计
 
-演示视频链接：https://live.csdn.net/v/388292
+演示视频链接：https://www.bilibili.com/video/BV1ks421A7KN/
 
 实现的功能：
 
